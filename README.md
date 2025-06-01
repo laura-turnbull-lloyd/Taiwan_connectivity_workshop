@@ -2,4 +2,4 @@
 
 You can open the worksheet (the ipynb file) by clicking on it in github, and then clicking on the open in colab button. You will probably be promoted to log into your google account.
 
-Save a copy of the notbook in your google drive.
+Save a copy of the notebook in your google drive.
